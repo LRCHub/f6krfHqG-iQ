@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "水光接天",
   "base_artist": "NOMELON NOLEMON",
-  "createdAt": "2026-02-11T02:13:51.149604Z",
+  "createdAt": "2026-03-24T11:22:46.553032Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "NOMELON NOLEMON",
       "has_synced": false,
       "path": "select/pl_01_水光接天_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "水光接天",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/localdb_01_水光接天_NOMELON_NOLEMON.txt",
+      "repo_name": "f6krfHqG-iQ"
     }
   ]
 }
